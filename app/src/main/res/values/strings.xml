@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bndl"> Games in the series include Grand Theft Auto: Vice City, Grand Theft Auto IV, and Grand Theft Auto V. The series has been praised for its gameplay and storytelling, but has also faced criticism for its violence and depiction of crime.</string>
+    <string name="gta">Grand Theft Auto: San Andreas is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released in 2004 for PlayStation 2, and in 2005 for Microsoft Windows and Xbox. Set in the fictional state of San Andreas, based on California and Nevada, the game follows gang member Carl "CJ" Johnson as he attempts to save his family and take control of the streets. The game is played from a third-person perspective, and its open-world environment allows players to interact with the game world at their leisure. The game features a variety of weapons and vehicles, as well as a detailed combat system.</string>
+</resources>
